@@ -1,0 +1,21 @@
+
+age - 0 to 80
+fare - o to 512
+sibsp - 0 to 8
+parch - 0 to 6
+
+survived - 0/1
+
+embarked town - C/Q/S
+sex - m/f
+class - 1/2/3
+deck - A/B/C/D/E/F/G
+
+1. correlation
+age vs fare - not correlated, age between 20 - 60 has higher fares
+fare vs survived - higher fare pople survived
+age vs survived - there is correlation, lowe to higher age has survival rate higher to lower
+
+2. clustered bar chart
+x = categorical variable
+y = count
